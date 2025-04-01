@@ -4,8 +4,12 @@ An Aspiring Software Engineer who loves to create and share projects about web a
 
 I'm currently active as a junior student at University of Indonesia while building websites as a side-project for personal learning and freelance.
 
-- 🔭 I’m currently working on makarapreneur website
-- 🌱 I’m currently learning about NextJS for full stack development
+- 🔭 Projects that i've worked or currently working on:
+  - https://lucas-fe.vercel.app/
+  - https://www.makarapreneur-hipmiptui.com/
+  - https://pockeat.up.railway.app/
+  - https://bemui-2024.vercel.app/
+- 🌱 I’m currently learning about NextJS, ExpressJS for full stack development
 - 💬 Feel free to ask me about web development or JavaScript
 - 📫 How to reach me: dwikyahmad@gmail.com
 - ⚡ Fun fact: I like to do workout, video games, and anything that related to self-improvement as a hobby
