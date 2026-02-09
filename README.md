@@ -2,7 +2,7 @@
 
 An Aspiring Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
-I'm currently active as a junior student at University of Indonesia while building websites as a side-project for personal learning and freelance.
+I'm currently active as a senior student at University of Indonesia while building websites as a side-project for personal learning and freelance.
 
 - 🔭 Projects that i've worked or currently working on:
   - https://lucas-fe.vercel.app/
